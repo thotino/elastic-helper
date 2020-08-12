@@ -1,5 +1,5 @@
 {
-    "node": "http://127.0.0.1:9200",
+    "node": "http://0.0.0.0:9200",
     "log": "error",
     "index": "tmp-index"
 }
